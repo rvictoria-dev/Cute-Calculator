@@ -1,18 +1,11 @@
 # 🧮 Cute Calculator
 
 A simple and clean calculator built with HTML, CSS, and JavaScript — my first web development project!
-
-![Calculator Preview](preview.png)
-
----
-
-## ✨ About
-
 This is my first project as a beginner developer. It's a functional calculator with a warm, minimal design. Building it taught me a lot about how HTML, CSS, and JavaScript work together, and gave me the confidence to keep learning and creating more projects.
 
 ---
 
-## 🌟 Features
+### 🌟 Features
 
 - Basic arithmetic: addition, subtraction, multiplication, division
 - Percentage calculation
@@ -23,7 +16,7 @@ This is my first project as a beginner developer. It's a functional calculator w
 
 ---
 
-## 💡 What I Learned
+### 💡 What I Learned
 
 - New HTML tags, elements, and attributes
 - CSS layout with Flexbox and Grid
@@ -35,7 +28,7 @@ This is my first project as a beginner developer. It's a functional calculator w
 
 ---
 
-## 🛠️ Built With
+### 📦 Stack
 
 - HTML5
 - CSS3
@@ -44,7 +37,7 @@ This is my first project as a beginner developer. It's a functional calculator w
 
 ---
 
-## 🎨 Color Palette
+### 🎨 Color Palette
 
 | Role | Hex |
 |---|---|
@@ -57,7 +50,7 @@ This is my first project as a beginner developer. It's a functional calculator w
 
 ---
 
-## 🚀 How to Run
+### 🚀 How to Run
 
 No installation needed. Just clone or download the project and open `index.html` in your browser.
 
@@ -69,7 +62,7 @@ open index.html
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
 ```
 cute-calculator/
@@ -77,13 +70,6 @@ cute-calculator/
 ├── styles.css
 └── script.js
 ```
+### 📀 Preview
 
----
-
-## 🔮 What's Next
-
-This is just the beginning! I'm planning to build more projects to keep improving my skills in HTML, CSS, and JavaScript.
-
----
-
-Made with 🤎 by a developer just getting started.
+https://github.com/user-attachments/assets/bb6452f3-6980-4307-b2d4-05437adf12f7
