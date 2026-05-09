@@ -72,4 +72,4 @@ cute-calculator/
 ```
 ### 📀 Preview
 
-https://github.com/user-attachments/assets/bb6452f3-6980-4307-b2d4-05437adf12f7
+https://github.com/user-attachments/assets/8d3af67c-945a-449f-8af7-2e814af63993
