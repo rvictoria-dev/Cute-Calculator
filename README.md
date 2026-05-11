@@ -1,6 +1,7 @@
 # 🧮 Cute Calculator
 
-A simple and clean calculator built with HTML, CSS, and JavaScript — my first web development project!
+### ✨ About
+
 This is my first project as a beginner developer. It's a functional calculator with a warm, minimal design. Building it taught me a lot about how HTML, CSS, and JavaScript work together, and gave me the confidence to keep learning and creating more projects.
 
 ---
