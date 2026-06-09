@@ -6,15 +6,15 @@ This is my first project as a beginner developer. It's a functional calculator w
 
 ---
 
-### 💡 What I Learned
+### 📁 Project structure
 
-- New HTML tags, elements, and attributes
-- CSS layout with Flexbox and Grid
-- How to style buttons and displays to look clean and polished
-- JavaScript logic for handling calculations and input
-- How to use `Function()` to evaluate math expressions
-- Keyboard event listeners with `keydown`
-- How to organize a project across multiple files (`index.html`, `styles.css`, `script.js`)
+```
+cute-calculator/
+├── index.html
+├── script.js
+├── styles.css
+└── README.md
+```
 
 ---
 
@@ -24,6 +24,18 @@ This is my first project as a beginner developer. It's a functional calculator w
 - CSS3
 - JavaScript (Vanilla)
 - [Nunito](https://fonts.google.com/specimen/Nunito) — Google Fonts
+
+---
+
+### 💡 What I Learned
+
+- New HTML tags, elements, and attributes
+- CSS layout with Flexbox and Grid
+- How to style buttons and displays to look clean and polished
+- JavaScript logic for handling calculations and input
+- How to use `Function()` to evaluate math expressions
+- Keyboard event listeners with `keydown`
+- How to organize a project across multiple files (`index.html`, `styles.css`, `script.js`)
 
 ---
 
